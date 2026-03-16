@@ -8,6 +8,10 @@ class Main {
     {
         System.out.println("Even numbers:" +i);
     }
+    else
+    {
+        System.out.println("Odd number:"+i);
+    }
         }
 }
 }
