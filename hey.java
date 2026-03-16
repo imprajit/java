@@ -1,4 +1,4 @@
-class Main {
+class hey {
     public static void main(String[] args) {
         int oddcount=0;
         int evencount=0;
