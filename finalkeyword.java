@@ -6,8 +6,8 @@ package package_one;
   }
   class tryto extends  ConstantValue
   {
-   // Here I want error to show that if you try to extend a Final keyword class or variable 
-	  // it will show Thanks for for giving me your valuable time!!.
+   // Here I want  to show that if you try to extend a Final keyword like class or variable 
+	  // it will show error Thanks for for giving me your valuable time!!.
   }
 public class practice {
 
