@@ -1,0 +1,50 @@
+Print "Hello, World!" in Java.
+Take user input and print it.
+Add two numbers using user input.
+Subtract two numbers.
+Multiply two numbers.
+Divide two numbers.
+Find remainder of two numbers.
+Check if a number is even or odd.
+Find the largest of two numbers.
+Find the smallest of three numbers.
+Check if a number is positive, negative, or zero.
+Convert Celsius to Fahrenheit.
+Convert kilometers to meters.
+Convert minutes into hours and minutes.
+Calculate simple interest.
+Calculate area of a rectangle.
+Calculate area of a circle.
+Print numbers from 1 to N.
+Print even numbers from 1 to N.
+Print odd numbers from 1 to N.
+Find sum of first N natural numbers.
+Find factorial of a number.
+Reverse a number.
+Count digits in a number.
+Find sum of digits of a number.
+Check if a number is palindrome.
+Print multiplication table of a number.
+Swap two numbers using a temporary variable.
+Swap two numbers without using a temporary variable.
+Create a method to add two numbers.
+Call a method and print result.
+Demonstrate if-else statement.
+Demonstrate switch statement.
+Print ASCII value of a character.
+Check if a character is uppercase or lowercase.
+Convert uppercase to lowercase manually.
+Concatenate two strings.
+Find length of a string without using built-in method.
+Count vowels in a string.
+Count consonants in a string.
+Reverse a string.
+Compare two strings using == and .equals().
+Create a class with variables and print values.
+Create an object of a class and access its members.
+Demonstrate type casting.
+Use Scanner to read different data types.
+Print a pattern (e.g., triangle of stars).
+Print numbers in reverse order.
+Find square and cube of a number.
+Create a simple calculator using switch.
