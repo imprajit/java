@@ -1,0 +1,51 @@
+🟡 Medium Level (51–100)
+Create a Student class with name, roll number, and marks.
+Create a BankAccount class with deposit and withdraw methods.
+Demonstrate constructor overloading.
+Demonstrate method overloading.
+Demonstrate method overriding using inheritance.
+Create a program using abstract class.
+Create a program using an interface.
+Demonstrate single inheritance.
+Demonstrate multilevel inheritance.
+Demonstrate hierarchical inheritance.
+Demonstrate encapsulation using getters and setters.
+Demonstrate use of this keyword.
+Demonstrate use of super keyword.
+Create a class with static variables and methods.
+Demonstrate use of final keyword.
+Handle exceptions using try-catch.
+Handle multiple exceptions.
+Create a custom exception.
+Read input and handle invalid data.
+Write data to a file.
+Read data from a file.
+Append data to a file.
+Count number of words in a sentence.
+Remove spaces from a string.
+Replace a word in a string.
+Check if two strings are equal without using .equals().
+Convert integer to string and string to integer.
+Split a sentence into words.
+Join multiple strings into one.
+Create a menu-driven program using switch.
+Create a simple calculator using methods.
+Store and display data using ArrayList.
+Remove elements from an ArrayList.
+Iterate through an ArrayList.
+Store key-value pairs using HashMap.
+Retrieve values from a HashMap.
+Iterate through a HashMap.
+Sort numbers using built-in methods.
+Sort strings alphabetically.
+Create multiple objects and store them in a list.
+Create a simple login system (username & password check).
+Validate email format.
+Validate password strength.
+Create a simple ATM program (deposit, withdraw, balance).
+Create a basic billing system.
+Create a student grade calculator.
+Create a simple interest calculator using methods.
+Create a file copy program.
+Create a program to count lines in a file.
+Create a console-based quiz program.
