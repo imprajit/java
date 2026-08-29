@@ -1,6 +1,6 @@
 # ☕ Easy Java Questions
 
-Total Questions out there 50 some of the questions are interconnected to which other so that in paper there are 45 questions !
+Total Questions out there are 50 some of the questions are interconnected to which other so that in paper there are 45 questions !
 
 > **45+ beginner-friendly Java programming questions to build a strong foundation in Java.**
 

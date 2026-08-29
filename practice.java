@@ -1,4 +1,4 @@
-package package_one;
+//package package_one;
 
   final class ConstantValue
   {
